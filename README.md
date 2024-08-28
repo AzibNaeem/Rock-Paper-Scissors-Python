@@ -38,7 +38,7 @@ In this game, you'll play against the computer. You will choose either rock, pap
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/rock-paper-scissors.git
+    git clone https://github.com/AzibNaeem/rock-paper-scissors.git
     ```
 
 2. Navigate to the project directory:
@@ -100,7 +100,3 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace placeholders like `your-username` with your actual GitHub username and customize any section according to your own preferences :)
